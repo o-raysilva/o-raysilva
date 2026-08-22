@@ -8,7 +8,7 @@
 
 * Currently studying **Systems Development**
 * Exploring different areas of **software development**
-* Especially interested in **game development** and **artificial intelligence**
+* Especially interested in **game development**
 * Always learning new technologies and programming best practices
 
 ---
