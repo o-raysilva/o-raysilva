@@ -1,19 +1,19 @@
-# Hi, I'm Ray! 👋
+# Olá, eu sou o Ray! 👋
 
-**Systems Development Student | Exploring Software Development | Preparing for a Career in Tech**
-
----
-
-## About Me
-
-* Currently studying **Systems Development**
-* Exploring different areas of **software development**
-* Especially interested in **game development**
-* Always learning new technologies and programming best practices
+**Estudante de Desenvolvimento de Sistemas | Explorando o Desenvolvimento de Software | Preparando-me para o Mercado de Tecnologia**
 
 ---
 
-## Technologies I'm Learning
+## Sobre mim
+
+* Atualmente cursando **Desenvolvimento de Sistemas**
+* Explorando diferentes áreas do **desenvolvimento de software**
+* Interesse especial em **desenvolvimento de jogos**
+* Sempre aprendendo novas tecnologias e boas práticas de programação
+
+---
+
+## Tecnologias que estou aprendendo
 <div style="display: inline_block"><br>
 <img align="center" alt="Python" height="40" width="40"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
@@ -25,9 +25,9 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
 
 ---
 
-## How to Reach Me
+## Como entrar em contato
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-thebadge&logo=gmail&logoColor=white)](mailto:raysilva.dev@gmail.com) 
 
 ---
 
-*"Always learning and growing as a developer."*
+*"Sempre aprendendo e evoluindo como desenvolvedor."*
