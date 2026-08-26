@@ -1,14 +1,14 @@
 # Olá, eu sou o Ray! 👋
 
-**Estudante de Desenvolvimento de Sistemas | Focado em Python, HTML e CSS | Preparando-me para o Mercado de Tecnologia**
+**Estudante de Desenvolvimento de Sistemas | Focado em Python, HTML e CSS | Preparando-me para o mercado de tecnologia**
 
 ---
 
 ## 📍Sobre mim
 
 * Atualmente cursando **Técnico em Desenvolvimento de Sistemas**
-* Explorando diferentes áreas do **desenvolvimento de software**
-* Interesse especial em **desenvolvimento de jogos**
+* Experiência em **montagem e manutenção de computadores** e **Microsoft Excel**
+* Interesse especial em **desenvolvimento de jogos** e **inteligência artificial**
 * Sempre aprendendo novas tecnologias e boas práticas de programação
 
 ---
@@ -21,6 +21,15 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.s
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
 <img align="center" alt="CSS" height="50" width="50"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+</div>
+
+---
+
+## 🛠️ Ferramentas que utilizo
+
+<div style="display: inline_block"><br>
+<img align="center" alt="VS Code" height="45" width="45"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
 </div>
 
 ---
