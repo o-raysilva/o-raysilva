@@ -42,7 +42,9 @@ Confira meus projetos, habilidades e minha trajetória no desenvolvimento de sis
   <img align="center" alt="VS Code" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   <img align="center" alt="Git" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   
-<img align="center" alt="GitHub" height="45" width="45" src="https://cdn.simpleicons.org/github/white">
+
+<img align="center" alt="GitHub" height="45" width="45" src="https://skillicons.dev/icons?i=github&theme=light">
+
 </div>
 
 ---
