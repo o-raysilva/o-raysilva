@@ -55,7 +55,6 @@ Atualmente desenvolvo projetos acadêmicos e pessoais para colocar em prática o
 
 - **Python:** lógica de programação, cálculos e automação de tarefas
 - **HTML, CSS e Bootstrap:** criação e estilização de páginas web
-- **Banco de dados:** modelagem de dados e diagramas entidade-relacionamento (DER)
 
 📂 Confira meus [repositórios no GitHub](https://github.com/o-raysilva?tab=repositories).
 
